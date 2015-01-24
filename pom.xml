@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>hot</name>
-  <url>http://maven.apache.org</url>
+  <description>黄云斌的热部署测试项目</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
