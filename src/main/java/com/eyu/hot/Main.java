@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 public class Main {
-	//注意：使用接口  
+	//注意最好使用接口  
 	static Target obj = new TargetImpl();
 
 	public static void main(String[] args) throws Exception {
